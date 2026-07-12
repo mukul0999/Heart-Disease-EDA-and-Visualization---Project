@@ -170,9 +170,9 @@ correlation_matrix = df.corr()
 
 ### Heart Disease Distribution
 
-```markdown
-![Heart Disease Distribution](screenshots/heart_disease_distribution.png)
-```
+
+<img width="2000" height="2830" alt="image" src="https://github.com/user-attachments/assets/759999e2-b752-49b3-a925-a07bb40ad893" />
+
 
 ### Violin Plot
 
