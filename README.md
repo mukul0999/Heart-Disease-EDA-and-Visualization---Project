@@ -158,7 +158,8 @@ correlation_matrix = df.corr()
 ### Correlation Heatmap
 
 ```markdown
-![Correlation Heatmap](screenshots/"C:\Users\priis\Downloads\correlation.png")
+![Correlation Heatmap](<img width="606" height="498" alt="correlation" src="https://github.com/user-attachments/assets/4b67c658-92f1-4b4c-bf25-8bee668fe3c7" />
+)
 ```
 
 ### Age Distribution
